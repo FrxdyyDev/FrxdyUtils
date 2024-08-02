@@ -1,0 +1,21 @@
+name: FrxdyUtils
+version: '${project.version}'
+main: de.frxdy.frxdyutils.FrxdyUtils
+api-version: '1.20'
+
+
+commands:
+  gm:
+    description: change your gamemode
+  invsee:
+    description: look in somebodys inventory. Use /invsee <playername>
+  fly:
+    description: reach for the stars
+  timer:
+    description: A timer
+  reset:
+    description: resets your world
+  position:
+    description: save positions and look at them later
+  settings:
+    description: manage the settings of the plugin
